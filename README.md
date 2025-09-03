@@ -27,8 +27,8 @@ Meu objetivo é desenvolver soluções criativas e funcionais, sempre buscando e
 ---
 
 ## 📈 Estatísticas do GitHub
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIOAQUI&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIOAQUI&layout=compact&theme=tokyonight)  
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreZx&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreZx&layout=compact&theme=tokyonight)  
 
 
 ## 📬 Onde me encontrar
